@@ -1,0 +1,11 @@
+Smoke = A0
+flame sensor = A1
+LDR = A2
+buzzer = D12
+Fan = D3
+Temp = D2
+LED = D4
+PIR = D5
+Water = D10
+LCD = A4, A5
+Servo = D9
